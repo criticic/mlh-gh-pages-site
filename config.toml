@@ -1,4 +1,4 @@
-baseURL = "http://criticic.github.io/"
+baseURL = "https://criticic.github.io/mlh-gh-pages-site/"
 languageCode = "en-us"
 title = "Criticic Intro"
 theme = "hallo"

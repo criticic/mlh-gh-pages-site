@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Criticic Intro</title>
-    <link>http://criticic.github.io/categories/</link>
+    <link>https://criticic.github.io/mlh-gh-pages-site/categories/</link>
     <description>Recent content in Categories on Criticic Intro</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://criticic.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://criticic.github.io/mlh-gh-pages-site/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
